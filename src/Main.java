@@ -5,7 +5,7 @@ public class Main {
 
 
         Scanner inp = new Scanner(System.in);
-        int distance, schedule, age, type;
+        int distance, age, type;
         boolean isError = true;
         double perKm = 0.10,amount,discountAmount = 0,discountRate = 1;
 
